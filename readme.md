@@ -39,8 +39,8 @@ Clone o projeto com o comando abaixo:
 
 ## 🔮 Funcionalidades Futuras
 
-- [x] A
-- [ ] B
-- [ ] C
+- [x] Caixa
+- [ ] Estoque
+- [ ] ERP
 
 ---
