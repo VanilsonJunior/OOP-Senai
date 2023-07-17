@@ -1,0 +1,15 @@
+C:\Users\vanil\OneDrive\Área de Trabalho\projetos\ProjetoSenaiOOP\bin\Debug\net7.0\ProjetoSenaiOOP.exe
+C:\Users\vanil\OneDrive\Área de Trabalho\projetos\ProjetoSenaiOOP\bin\Debug\net7.0\ProjetoSenaiOOP.deps.json
+C:\Users\vanil\OneDrive\Área de Trabalho\projetos\ProjetoSenaiOOP\bin\Debug\net7.0\ProjetoSenaiOOP.runtimeconfig.json
+C:\Users\vanil\OneDrive\Área de Trabalho\projetos\ProjetoSenaiOOP\bin\Debug\net7.0\ProjetoSenaiOOP.dll
+C:\Users\vanil\OneDrive\Área de Trabalho\projetos\ProjetoSenaiOOP\bin\Debug\net7.0\ProjetoSenaiOOP.pdb
+C:\Users\vanil\OneDrive\Área de Trabalho\projetos\ProjetoSenaiOOP\obj\Debug\net7.0\ProjetoSenaiOOP.csproj.AssemblyReference.cache
+C:\Users\vanil\OneDrive\Área de Trabalho\projetos\ProjetoSenaiOOP\obj\Debug\net7.0\ProjetoSenaiOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanil\OneDrive\Área de Trabalho\projetos\ProjetoSenaiOOP\obj\Debug\net7.0\ProjetoSenaiOOP.AssemblyInfoInputs.cache
+C:\Users\vanil\OneDrive\Área de Trabalho\projetos\ProjetoSenaiOOP\obj\Debug\net7.0\ProjetoSenaiOOP.AssemblyInfo.cs
+C:\Users\vanil\OneDrive\Área de Trabalho\projetos\ProjetoSenaiOOP\obj\Debug\net7.0\ProjetoSenaiOOP.csproj.CoreCompileInputs.cache
+C:\Users\vanil\OneDrive\Área de Trabalho\projetos\ProjetoSenaiOOP\obj\Debug\net7.0\ProjetoSenaiOOP.dll
+C:\Users\vanil\OneDrive\Área de Trabalho\projetos\ProjetoSenaiOOP\obj\Debug\net7.0\refint\ProjetoSenaiOOP.dll
+C:\Users\vanil\OneDrive\Área de Trabalho\projetos\ProjetoSenaiOOP\obj\Debug\net7.0\ProjetoSenaiOOP.pdb
+C:\Users\vanil\OneDrive\Área de Trabalho\projetos\ProjetoSenaiOOP\obj\Debug\net7.0\ProjetoSenaiOOP.genruntimeconfig.cache
+C:\Users\vanil\OneDrive\Área de Trabalho\projetos\ProjetoSenaiOOP\obj\Debug\net7.0\ref\ProjetoSenaiOOP.dll
